@@ -1,0 +1,30 @@
+_repo: Histoire-anecdotique-de-l-Ancien-Th--tre-en-France-Tome-PremierVaudeville-Th--tres-forains-et__35609
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35609-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Du Casse, Albert
+    alias: Casse, Albert Du
+    birthdate: 1813
+    deathdate: 1893
+    gutenberg_agent_id: '34707'
+    url: http://www.gutenberg.org/2009/agents/34707
+    wikipedia: http://en.wikipedia.org/wiki/Pierre_Emmanuel_Albert,_Baron_Ducasse
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2011-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35609'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Theater -- France -- History'
+title: "Histoire anecdotique de l'Ancien Théâtre en France, Tome Premier\r\nThéâtre-Français,\
+  \ Opéra, Opéra-Comique, Théâtre-Italien, Vaudeville, Théâtres forains, etc..."
+url: http://www.gutenberg.org/ebooks/35609
