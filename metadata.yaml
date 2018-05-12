@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34707
     wikipedia: http://en.wikipedia.org/wiki/Pierre_Emmanuel_Albert,_Baron_Ducasse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35609#Histoire-anecdotique-de-l-Ancien-Th--tre-en-France-Tome-PremierVaudeville-Th--tres-forains-et_
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2011-03-18'
 gutenberg_type: Text
